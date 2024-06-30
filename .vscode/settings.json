@@ -1,0 +1,14 @@
+{
+  "locofyConfig": {
+    "project": "final edition",
+    "id": "66811cf1aec21bae59cf746f",
+    "framework": "html-css",
+    "typescript": false,
+    "styling": "CSS",
+    "unit": "px",
+    "naming": "Kebab Case",
+    "path": "public/",
+    "componentsPath": "d:\\Final edition'\\src\\components",
+    "screensPath": "d:\\Final edition'\\src\\pages"
+  }
+}
