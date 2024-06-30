@@ -2743,43 +2743,57 @@
 }
 
 @media screen and (max-width: 1200px) {
+  .agency-jackpot-wrapper,
+  .group-div,
+  .local-business-stats,
+  .frame-wrapper3,
+  .features-background-parent,
+  .component-1-child,
+  .lead-gen-system-inner,
+  .lead-gen-system,
+  .frame-parent24,
+  .a-i-intro,
+  .component-1-inner1 {
+    box-sizing: border-box;
+  }
+
   .agency-jackpot-wrapper {
     padding-bottom: 453px;
-    box-sizing: border-box;
   }
 
-  .chatstoresai-box-cover-v1-5 {
+  .chatstoresai-box-cover-v1-5,
+  .product-image-mask-parent,
+  .stories-title,
+  .frame-child14,
+  .frame-wrapper15,
+  .placeholder-group,
+  .competition-content-inner,
+  .failure-reasons,
+  .competition-background-parent,
+  .lead-gen-description {
     flex: 1;
   }
 
-  .product-image-mask-parent {
-    flex: 1;
-  }
-
-  .group-div {
-    flex-wrap: wrap;
+  .group-div,
+  .local-business-stats,
+  .frame-wrapper3,
+  .lead-gen-system-inner,
+  .frame-parent24 {
     padding-left: var(--padding-23xl);
     padding-right: var(--padding-23xl);
-    box-sizing: border-box;
-  }
-
-  .local-business-stats {
-    padding-left: var(--padding-20xl);
-    padding-right: var(--padding-20xl);
-    box-sizing: border-box;
   }
 
   .frame-wrapper3 {
-    padding-left: var(--padding-20xl);
     padding-right: var(--padding-21xl);
-    box-sizing: border-box;
   }
 
-  .close-step-background-parent {
-    flex-wrap: wrap;
-  }
-
-  .deal-closing-background {
+  .close-step-background-parent,
+  .deal-closing-background,
+  .prowess-content,
+  .rectangle-parent5,
+  .competition-content,
+  .failure-reasons-parent,
+  .frame-parent33 {
     flex-wrap: wrap;
   }
 
@@ -2787,80 +2801,18 @@
     gap: var(--gap-38xl);
     padding-top: var(--padding-15xl);
     padding-bottom: 48px;
-    box-sizing: border-box;
   }
 
   .component-1-child {
     padding-bottom: 55px;
-    box-sizing: border-box;
-  }
-
-  .stories-title {
-    flex: 1;
-  }
-
-  .prowess-content {
-    flex-wrap: wrap;
-  }
-
-  .frame-child14 {
-    flex: 1;
-  }
-
-  .frame-wrapper15 {
-    flex: 1;
-  }
-
-  .rectangle-parent5 {
-    flex-wrap: wrap;
-  }
-
-  .placeholder-group {
-    flex: 1;
-  }
-
-  .competition-content-inner {
-    flex: 1;
-  }
-
-  .competition-content {
-    flex-wrap: wrap;
-  }
-
-  .failure-reasons {
-    flex: 1;
-  }
-
-  .competition-background-parent {
-    flex: 1;
-  }
-
-  .failure-reasons-parent {
-    flex-wrap: wrap;
-  }
-
-  .lead-gen-system-inner {
-    padding-left: var(--padding-16xl);
-    padding-right: var(--padding-16xl);
-    box-sizing: border-box;
-  }
-
-  .lead-gen-system {
-    padding-bottom: var(--padding-4xl);
-    box-sizing: border-box;
   }
 
   .frame-parent24 {
     gap: var(--gap-26xl);
-    padding-left: var(--padding-16xl);
     padding-right: var(--padding-9xl);
-    box-sizing: border-box;
   }
 
-  .frame-parent23 {
-    gap: var(--gap-19xl);
-  }
-
+  .frame-parent23,
   .frame-parent27 {
     gap: var(--gap-19xl);
   }
@@ -2868,23 +2820,9 @@
   .a-i-intro {
     padding-left: var(--padding-262xl);
     padding-right: var(--padding-262xl);
-    box-sizing: border-box;
-  }
-
-  .lead-gen-description {
-    flex: 1;
-  }
-
-  .frame-parent33 {
-    flex-wrap: wrap;
-  }
-
-  .component-1-inner1 {
-    padding-left: var(--padding-16xl);
-    padding-right: var(--padding-16xl);
-    box-sizing: border-box;
   }
 }
+
 @media screen and (max-width: 1050px) {
   .local-marketers-new {
     font-size: var(--font-size-7xl);
@@ -2895,290 +2833,149 @@
     line-height: 66px;
   }
 
-  .save-hours-of-work-thousands-wrapper {
+  .save-hours-of-work-thousands-wrapper,
+  .effortlessly-find-pitch-clos-wrapper {
     padding-left: var(--padding-13xl);
     padding-right: var(--padding-12xl);
-    box-sizing: border-box;
   }
 
-  .one-time-investment {
+  .one-time-investment,
+  .run-your-local-container,
+  .effortlessly-find-pitch-container,
+  .find,
+  .pitch,
+  .close,
+  .serve,
+  .there-are-32-container,
+  .but-there-is,
+  .why-local-marketers-container,
+  .cold-calling-is-soul-crushing,
+  .advertising-is-a,
+  .huge-competition,
+  .now-imagine-a,
+  .win-client-get-container,
+  .introducing {
     font-size: var(--font-size-13xl);
     line-height: 40px;
-  }
-
-  .run-your-local-container {
-    font-size: var(--font-size-17xl);
-    line-height: 44px;
-  }
-
-  .effortlessly-find-pitch-container {
-    font-size: var(--font-size-17xl);
-    line-height: 28px;
-  }
-
-  .effortlessly-find-pitch-clos-wrapper {
-    padding-left: var(--padding-4xl);
-    padding-right: var(--padding-4xl);
-    box-sizing: border-box;
-  }
-
-  .find {
-    font-size: var(--font-size-9xl);
-    line-height: 28px;
-  }
-
-  .pitch {
-    font-size: var(--font-size-9xl);
-    line-height: 28px;
-  }
-
-  .close {
-    font-size: var(--font-size-9xl);
-    line-height: 28px;
-  }
-
-  .serve {
-    font-size: var(--font-size-9xl);
-    line-height: 28px;
   }
 
   .features-background-parent {
     padding-top: var(--padding-3xl);
     padding-bottom: var(--padding-12xl);
-    box-sizing: border-box;
   }
 
   .component-1-child {
     padding-bottom: var(--padding-17xl);
-    box-sizing: border-box;
   }
 
-  .there-are-32-container {
-    font-size: var(--font-size-25xl);
-    line-height: 48px;
-  }
-
-  .with-more-popping {
-    font-size: var(--font-size-5xl);
-    line-height: 28px;
-  }
-
-  .which-means-there {
-    font-size: var(--font-size-5xl);
-    line-height: 28px;
-  }
-
-  .frame-parent12 {
-    gap: 61px;
+  .frame-parent12,
+  .frame-parent20,
+  .frame-parent23,
+  .frame-parent27,
+  .frame-parent33 {
+    gap: var(--gap-19xl);
   }
 
   .product-features {
     padding-right: var(--padding-25xl);
-    box-sizing: border-box;
-  }
-
-  .just-like-these {
-    font-size: 38px;
-    line-height: 44px;
-  }
-
-  .but-there-is {
-    font-size: var(--font-size-13xl);
-    line-height: 48px;
-  }
-
-  .why-local-marketers-container {
-    font-size: var(--font-size-25xl);
-    line-height: 48px;
   }
 
   .frame-wrapper11 {
     padding-left: var(--padding-17xl);
     padding-right: var(--padding-17xl);
-    box-sizing: border-box;
   }
 
-  .placeholder {
-    font-size: var(--font-size-37xl);
-    line-height: 24px;
-  }
-
-  .cold-calling-is-soul-crushing {
-    font-size: var(--font-size-9xl);
-    line-height: 32px;
-  }
-
-  .rejection-content-item {
-    flex: 1;
-  }
-
-  .rejection-content {
-    flex: 1;
-  }
-
-  .frame-parent16 {
-    flex-wrap: wrap;
-  }
-
-  .frame-child14 {
-    min-width: 100%;
-  }
-
-  .placeholder1 {
-    font-size: var(--font-size-37xl);
-    line-height: 24px;
-  }
-
-  .advertising-is-a {
-    font-size: var(--font-size-9xl);
-    line-height: 32px;
-  }
-
-  .frame-wrapper15 {
-    min-width: 100%;
-  }
-
-  .placeholder2 {
-    font-size: var(--font-size-37xl);
-    line-height: 24px;
-  }
-
-  .competition-content-inner {
-    min-width: 100%;
-  }
-
-  .frame-parent20 {
-    gap: var(--gap-38xl);
-  }
-
-  .failure-reasons {
-    min-width: 100%;
-  }
-
-  .competition-placeholder {
-    font-size: var(--font-size-37xl);
-    line-height: 24px;
-  }
-
-  .huge-competition {
-    font-size: var(--font-size-9xl);
-    line-height: 32px;
-  }
-
-  .competition-background-parent {
-    min-width: 100%;
-  }
-
+  .frame-parent16,
+  .frame-parent18,
+  .frame-parent21,
   .problem-background-parent {
-    gap: 78px;
-  }
-
-  .lead-gen-system {
-    padding-bottom: var(--padding-xl);
-    box-sizing: border-box;
-  }
-
-  .now-imagine-a {
-    font-size: var(--font-size-25xl);
-    line-height: 48px;
-  }
-
-  .win-client-get-container {
-    font-size: var(--font-size-9xl);
-    line-height: 28px;
+    gap: var(--gap-5xl);
   }
 
   .frame-parent23 {
     padding-top: var(--padding-23xl);
     padding-bottom: var(--padding-45xl);
-    box-sizing: border-box;
   }
 
   .frame-parent27 {
     padding-bottom: var(--padding-45xl);
-    box-sizing: border-box;
-  }
-
-  .introducing {
-    font-size: var(--font-size-17xl);
-    line-height: 44px;
   }
 
   .a-i-intro {
     padding-top: var(--padding-25xl);
     padding-bottom: 444px;
-    box-sizing: border-box;
   }
 
   .mask-group-parent3 {
     padding-left: var(--padding-15xl);
     padding-right: var(--padding-15xl);
-    box-sizing: border-box;
-  }
-
-  .lead-gen-description {
-    min-width: 100%;
-  }
-
-  .component-1 {
-    padding-right: 47px;
-    box-sizing: border-box;
   }
 }
+
 @media screen and (max-width: 750px) {
-  .agency-jackpot {
-    gap: var(--gap-lg);
+  .agency-jackpot,
+  .frame-parent3,
+  .serve-step-icon-content-parent,
+  .frame-parent10,
+  .rectangle-parent2,
+  .frame-parent21,
+  .frame-parent23,
+  .frame-parent27,
+  .frame-wrapper12,
+  .lead-gen-system,
+  .step-two-content,
+  .automatically-create-a-persona-parent,
+  .win-client-get-paid-rinse-wrapper,
+  .frame-parent24,
+  .frame-parent33 {
+    flex-wrap: wrap;
+  }
+
+  .agency-jackpot-wrapper,
+  .component-1-inner,
+  .local-business-stats,
+  .product-features,
+  .stories-title,
+  .frame-parent13,
+  .lead-gen-system,
+  .frame-parent24,
+  .frame-parent27,
+  .a-i-intro,
+  .component-1 {
+    box-sizing: border-box;
   }
 
   .agency-jackpot-wrapper {
     padding-bottom: 294px;
-    box-sizing: border-box;
   }
 
-  .frame-parent3 {
-    flex-wrap: wrap;
-  }
-
-  .button-background-parent {
+  .button-background-parent,
+  .group-div,
+  .component-1-inner,
+  .local-business-stats,
+  .frame-parent24,
+  .frame-parent27,
+  .a-i-intro,
+  .mask-group-parent3,
+  .component-1 {
     padding-left: var(--padding-6xl);
     padding-right: var(--padding-6xl);
-    box-sizing: border-box;
+  }
+
+  .group-div {
+    padding: var(--padding-13xl) var(--padding-2xl) 24px;
   }
 
   .frame-parent1 {
     gap: var(--gap-51xl);
   }
 
-  .offer-details {
-    min-width: 100%;
-  }
-
-  .group-div {
-    gap: var(--gap-10xl);
-    padding: var(--padding-13xl) var(--padding-2xl) 24px;
-    box-sizing: border-box;
-  }
-
   .component-1-inner {
     padding-bottom: var(--padding-24xl);
-    box-sizing: border-box;
   }
 
   .local-business-stats {
     padding-bottom: var(--padding-24xl);
-    box-sizing: border-box;
-  }
-
-  .frame-parent5 {
-    gap: var(--gap-base);
-  }
-
-  .serve-step-icon-content-parent {
-    flex-wrap: wrap;
-  }
-
-  .frame-parent10 {
-    gap: var(--gap-base);
   }
 
   .features-background-parent {
@@ -3186,15 +2983,7 @@
   }
 
   .product-features {
-    padding-right: var(--padding-3xl);
     padding-bottom: 131px;
-    box-sizing: border-box;
-  }
-
-  .stories-title {
-    padding-top: 54px;
-    box-sizing: border-box;
-    min-width: 100%;
   }
 
   .rectangle-parent2 {
@@ -3207,87 +2996,22 @@
 
   .frame-parent13 {
     padding-bottom: var(--padding-19xl);
-    box-sizing: border-box;
-  }
-
-  .frame-parent17 {
-    gap: var(--gap-5xl);
-  }
-
-  .frame-wrapper12 {
-    min-width: 100%;
-  }
-
-  .placeholder-group {
-    min-width: 100%;
-  }
-
-  .frame-parent21 {
-    flex-wrap: wrap;
   }
 
   .frame-parent20 {
     gap: var(--gap-9xl);
   }
 
-  .problem-background-parent {
-    gap: var(--gap-20xl);
-  }
-
   .lead-gen-system {
     gap: var(--gap-mid);
-  }
-
-  .step-two-details {
-    min-width: 100%;
-  }
-
-  .step-two-content {
-    gap: var(--gap-3xl);
-  }
-
-  .automatically-create-a-persona-parent {
-    min-width: 100%;
-  }
-
-  .frame-parent25 {
-    gap: var(--gap-xl);
-  }
-
-  .win-client-get-paid-rinse-wrapper {
-    min-width: 100%;
-  }
-
-  .frame-parent24 {
-    gap: var(--gap-3xl);
-  }
-
-  .frame-parent23 {
-    gap: var(--gap-lgi);
-  }
-
-  .frame-parent27 {
-    gap: var(--gap-lgi);
   }
 
   .a-i-intro {
     padding-left: var(--padding-121xl);
     padding-right: var(--padding-121xl);
-    box-sizing: border-box;
-  }
-
-  .vector-parent {
-    min-width: 100%;
-  }
-
-  .frame-parent33 {
-    gap: var(--gap-5xl);
-  }
-
-  .frame-parent32 {
-    gap: var(--gap-16xl);
   }
 }
+
 @media screen and (max-width: 450px) {
   .local-marketers-new {
     font-size: var(--font-size-xl);
@@ -3307,17 +3031,35 @@
     line-height: 30px;
   }
 
-  .save-hours-of-container1 {
-    font-size: var(--font-size-base);
+  .save-hours-of-container1,
+  .get-access-to,
+  .and-witness-the,
+  .just-type-in,
+  .sealing-the-deal,
+  .and-thats-just,
+  .without-offering-real,
+  .if-youre-trying,
+  .push-a-button-container,
+  .automatically-create-a {
+    font-size: var(--font-size-xl);
+    line-height: 28px;
   }
 
-  .get-access-to {
-    font-size: var(--font-size-2xl);
-    line-height: 34px;
-  }
-
-  .frame-parent1 {
-    gap: var(--gap-16xl);
+  .frame-parent1,
+  .frame-parent7,
+  .frame-parent8,
+  .frame-parent10,
+  .frame-parent16,
+  .frame-parent18,
+  .placeholder-parent,
+  .placeholder-group,
+  .competition-background-parent,
+  .problem-background-parent,
+  .frame-parent23,
+  .frame-parent26,
+  .frame-parent32,
+  .frame-parent33 {
+    gap: var(--gap-lgi);
   }
 
   .one-time-investment {
@@ -3325,262 +3067,71 @@
     line-height: 30px;
   }
 
-  .run-your-local-container {
-    font-size: var(--font-size-8xl);
-    line-height: 33px;
-  }
-
-  .effortlessly-find-pitch-container {
-    font-size: var(--font-size-8xl);
-    line-height: 21px;
-  }
-
-  .and-witness-the {
-    font-size: 22px;
-    line-height: 28px;
-  }
-
-  .find {
-    font-size: var(--font-size-2xl);
-    line-height: 21px;
-  }
-
-  .just-type-in {
-    font-size: var(--font-size-xl);
-    line-height: 28px;
-  }
-
-  .frame-parent7 {
-    gap: var(--gap-4xl);
-  }
-
-  .pitch {
-    font-size: var(--font-size-2xl);
-    line-height: 21px;
-  }
-
-  .frame-parent8 {
-    gap: var(--gap-4xl);
-  }
-
-  .close {
-    font-size: var(--font-size-2xl);
-    line-height: 21px;
+  .run-your-local-container,
+  .effortlessly-find-pitch-container,
+  .there-are-32-container,
+  .just-like-these,
+  .why-local-marketers-container,
+  .now-imagine-a,
+  .introducing {
+    font-size: var(--font-size-5xl);
+    line-height: 30px;
   }
 
   .serve {
-    font-size: var(--font-size-2xl);
-    line-height: 21px;
-  }
-
-  .sealing-the-deal {
-    font-size: var(--font-size-xl);
-    line-height: 28px;
-  }
-
-  .features-background-parent {
-    padding-top: var(--padding-xl);
-    padding-bottom: var(--padding-xl);
-    box-sizing: border-box;
-  }
-
-  .component-1-child {
-    padding-bottom: var(--padding-4xl);
-    box-sizing: border-box;
-  }
-
-  .there-are-32-container {
-    font-size: var(--font-size-14xl);
-    line-height: 36px;
-  }
-
-  .and-thats-just {
-    font-size: var(--font-size-xl);
-    line-height: 28px;
-  }
-
-  .and-thats-just-in-the-us-alon-wrapper {
-    padding-left: var(--padding-19xl);
-    box-sizing: border-box;
-  }
-
-  .with-more-popping {
-    font-size: var(--font-size-lg);
-    line-height: 21px;
-  }
-
-  .which-means-there {
-    font-size: var(--font-size-lg);
-    line-height: 21px;
-  }
-
-  .frame-parent12 {
-    gap: 30px;
-  }
-
-  .this-isnt-just-container {
-    font-size: var(--font-size-base);
-    line-height: 31px;
-  }
-
-  .prowess-content {
-    gap: var(--gap-mid);
-  }
-
-  .just-like-these {
-    font-size: 29px;
-    line-height: 33px;
-  }
-
-  .but-there-is {
     font-size: var(--font-size-5xl);
-    line-height: 36px;
   }
 
-  .why-local-marketers-container {
-    font-size: var(--font-size-14xl);
-    line-height: 36px;
-  }
-
-  .placeholder {
-    font-size: var(--font-size-23xl);
-    line-height: 18px;
-  }
-
-  .frame-parent18 {
-    flex-wrap: wrap;
-  }
-
-  .cold-calling-is-soul-crushing {
-    font-size: var(--font-size-2xl);
-    line-height: 24px;
-  }
-
-  .it-takes-days {
-    font-size: var(--font-size-base);
-    line-height: 24px;
-  }
-
-  .frame-parent16 {
-    gap: var(--gap-lgi);
-  }
-
-  .frame-parent14 {
-    gap: var(--gap-10xl);
-  }
-
-  .placeholder1 {
-    font-size: var(--font-size-23xl);
-    line-height: 18px;
-  }
-
-  .advertising-is-a {
-    font-size: var(--font-size-2xl);
-    line-height: 24px;
-  }
-
-  .placeholder-parent {
-    gap: var(--gap-lgi);
-  }
-
-  .placeholder2 {
-    font-size: var(--font-size-23xl);
-    line-height: 18px;
-  }
-
-  .without-offering-real {
-    font-size: var(--font-size-base);
-    line-height: 24px;
-  }
-
-  .placeholder-group {
-    gap: var(--gap-5xl);
-  }
-
-  .competition-placeholder {
-    font-size: var(--font-size-23xl);
-    line-height: 18px;
-  }
-
-  .huge-competition {
-    font-size: var(--font-size-2xl);
-    line-height: 24px;
-  }
-
-  .if-youre-trying {
-    font-size: var(--font-size-base);
-    line-height: 24px;
-  }
-
-  .competition-background-parent {
-    gap: var(--gap-lgi);
-  }
-
-  .problem-background-parent {
-    gap: var(--gap-xl);
-  }
-
-  .now-imagine-a {
-    font-size: var(--font-size-14xl);
-    line-height: 36px;
-  }
-
-  .push-a-button-container {
-    font-size: var(--font-size-xl);
-    line-height: 28px;
-  }
-
-  .automatically-create-a {
-    font-size: var(--font-size-xl);
-    line-height: 28px;
-  }
-
-  .win-client-get-container {
-    font-size: var(--font-size-2xl);
-    line-height: 21px;
-  }
-
-  .frame-parent26 {
-    gap: var(--gap-mid);
-  }
-
-  .frame-parent23 {
-    padding-top: var(--padding-8xl);
-    padding-bottom: var(--padding-23xl);
-    box-sizing: border-box;
-  }
-
-  .frame-parent27 {
-    padding-bottom: var(--padding-23xl);
-    box-sizing: border-box;
-  }
-
-  .introducing {
-    font-size: var(--font-size-8xl);
-    line-height: 33px;
-  }
-
-  .a-i-intro {
-    padding: var(--padding-10xl) var(--padding-xl) 289px;
-    box-sizing: border-box;
-  }
-
-  .complete-lead-gen-container {
-    font-size: var(--font-size-xl);
-    line-height: 28px;
-  }
-
-  .introducing-pitchperfect-ai-container {
-    font-size: var(--font-size-lg);
-    line-height: 34px;
-  }
-
-  .frame-parent32 {
+  .step-two-content {
     gap: var(--gap-lg);
   }
 
-  .component-1 {
-    padding-right: var(--padding-xl);
-    box-sizing: border-box;
+  .features-background-parent {
+    gap: var(--gap-xl);
+  }
+
+  .frame-wrapper11 {
+    padding-left: var(--padding-10xl);
+    padding-right: var(--padding-10xl);
+  }
+
+  .frame-wrapper12 {
+    padding-right: var(--padding-10xl);
+  }
+
+  .frame-wrapper15 {
+    gap: 33px;
+  }
+
+  .component-1-inner {
+    padding-bottom: var(--padding-3xl);
+  }
+
+  .product-features {
+    padding-left: var(--padding-15xl);
+    padding-right: var(--padding-15xl);
+    padding-bottom: 103px;
+  }
+
+  .frame-wrapper18 {
+    gap: 49px;
+  }
+
+  .frame-parent13 {
+    gap: 45px;
+  }
+
+  .frame-parent14 {
+    gap: var(--gap-5xl);
+  }
+
+  .frame-parent23,
+  .frame-parent24 {
+    gap: 54px;
+  }
+
+  .a-i-intro {
+    padding-left: 0;
+    padding-right: 0;
   }
 }
